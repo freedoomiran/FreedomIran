@@ -1,1 +1,13 @@
-
+{
+  "default": "fa",
+  "available": [
+    {
+      "code": "fa",
+      "name": "فارسی"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ]
+}
